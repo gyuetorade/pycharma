@@ -65,7 +65,7 @@ class Game:
         self.character.update()
         SCREEN.blit(self.character.image, self.character.rect)
 
-
+a
 def main_menu():
     in_game = False  # New variable to track whether the player is in the game
 
